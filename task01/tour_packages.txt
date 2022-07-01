@@ -1,6 +1,50 @@
-Dear __salutations__. __last_name__,
+Dear Mr
+Baggins,
 
-Thank you for your interest in our new __package_name__ package! 
-For the 2022 Spring promotion, you can sign up for the low low price of $__price__!
+Thank you for your interest in our new Mordor] package!
+For the 2022 Spring promotion, you can sign up for the low low price of $40!
+
+
 
 Safe travels!
+
+Dear Mr
+Flintstone,
+
+Thank you for your interest in our new Jurassic Park] package!
+For the 2022 Spring promotion, you can sign up for the low low price of $300!
+
+
+
+Safe travels!
+
+Dear Mr
+Fogg,
+
+Thank you for your interest in our new Round the World] package!
+For the 2022 Spring promotion, you can sign up for the low low price of $10000!
+
+
+
+Safe travels!
+
+Dear Ms
+Marple,
+
+Thank you for your interest in our new St Honore] package!
+For the 2022 Spring promotion, you can sign up for the low low price of $1000!
+
+
+
+Safe travels!
+
+Dear Dr
+Who,
+
+Thank you for your interest in our new Gallifrey] package!
+For the 2022 Spring promotion, you can sign up for the low low price of $10000000!
+
+
+
+Safe travels!
+
